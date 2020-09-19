@@ -5,6 +5,6 @@ Awesome papers contrain list of papers that I go through over the time. Try to c
 ## NLP
 
 ### 16 May 2016
- - **Paper:** [Large Scale Distributed Semi-Supervised Learning Using StreamingApproximation](https://arxiv.org/pdf/1512.01752.pdf)
+ - **Paper:** [Large Scale Distributed Semi-Supervised Learning Using Streaming Approximation](https://arxiv.org/pdf/1512.01752.pdf)
  - **Domain:** `Graph based semi-supervisedlearning (SSL)`, `Knowledge graph, Graph neural netwrok`, `Chatbot`, `Conversation AI`
  - **Key points:** Graph  augmentation strategy using unsupervised deep learning architectures that yields further significantquality gains for SSL in natural  language applications.
