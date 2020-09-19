@@ -12,3 +12,5 @@ Awesome papers contrain list of papers that I go through over the time. Try to c
  - **Key points:** Graph  augmentation strategy using unsupervised deep learning architectures that yields further significantquality gains for SSL in natural  language applications.
  
 ![](./images/conversation_ai_flow.png)
+
+In top messages along with projections and corresponding replies, if available, are used in a machine learning framework to jointly learn a “message projection model”. (Bottom) The message projection model learns to associate replies with the projections of the corresponding incoming messages. For example, the model projects two different messages “Howdy, everything going well?” and “How’s it going buddy?” (bottom center) to nearby bit vectors and learns to map these to relevant replies (bottom right).
