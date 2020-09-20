@@ -14,3 +14,14 @@ Awesome papers contrain list of papers that I go through over the time. Try to c
 ![](./images/conversation_ai_flow.png)
 
 In top messages along with projections and corresponding replies, if available, are used in a machine learning framework to jointly learn a “message projection model”. (Bottom) The message projection model learns to associate replies with the projections of the corresponding incoming messages. For example, the model projects two different messages “Howdy, everything going well?” and “How’s it going buddy?” (bottom center) to nearby bit vectors and learns to map these to relevant replies (bottom right).
+
+### 22 July 2015
+ - **Paper:** [A Neural Conversational Model](https://arxiv.org/pdf/1506.05869.pdf)
+ - **Domain:** `Chatbot`, `Conversation AI`
+ - **Dataset:** `IT helpdesk troubleshooting`, `Open domain movie transcript`
+ - **Discussion:** [Towards a Conversational Agent that Can Chat About Anything ](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html)
+ - **Key points:** Our approach makes use of the sequence-to-sequence(seq2seq) framework.The model is based on a recurrent neural network whichreads the input sequence one token at a time, and predictsthe output sequence, also one token at a time. During train-ing, the true output sequence is given to the model, so learn-ing can be done by backpropagatio
+ 
+![](./images/seq2seq_for_conversational_ai.png)
+ 
+ The seq2seqframework for modeling conversations.
