@@ -11,7 +11,9 @@ Awesome papers contrain list of papers that I go through over the time. Try to c
  - **Discussion:** [Introducing TensorFlow Recommenders ](https://blog.tensorflow.org/2020/09/introducing-tensorflow-recommenders.html)
  - **Key points:** Present a general framework named NCF, short for Neural network-based Collaborative Filtering. NCF is generic and can ex-press and generalize  matrix factorization under its frame-work. To supercharge NCF modelling with non-linearities,we propose to leverage a multi-layer perceptron to learn theuser–item  interaction  function. Extensive  experiments on two real-world datasets show significant improvements of ourproposed NCF framework over the state-of-the-art methods. Empirical evidence shows that using deeper layers of neuralnetworks offers better recommendation performance.
 
-![]()
+![](./images/neural_collaborative_filtering_framework.png)
+
+Neural collaborative filtering framework
 
 ### 16 May 2016
  - **Paper:** [Large Scale Distributed Semi-Supervised Learning Using Streaming Approximation](https://arxiv.org/pdf/1512.01752.pdf)
@@ -33,4 +35,4 @@ In top messages along with projections and corresponding replies, if available, 
  
 ![](./images/seq2seq_for_conversational_ai.png)
  
- The seq2seqframework for modeling conversations.
+ The seq2seq framework for modeling conversations.
