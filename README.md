@@ -4,6 +4,15 @@ Awesome papers contrain list of papers that I go through over the time. Try to c
 
 ## NLP
 
+### 26 Aug 2017
+ - **Paper:** [Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031.pdf)
+ - **Domain:** `Recommender systems`, `Collaborative  Filtering`,  `Matrix Factorization`, `Implicit Feedback`
+ - **Dataset:** `Movie Lens`
+ - **Discussion:** [Introducing TensorFlow Recommenders ](https://blog.tensorflow.org/2020/09/introducing-tensorflow-recommenders.html)
+ - **Key points:** Present a general framework named NCF, short for Neural network-based Collaborative Filtering. NCF is generic and can ex-press and generalize  matrix factorization under its frame-work. To supercharge NCF modelling with non-linearities,we propose to leverage a multi-layer perceptron to learn theuser–item  interaction  function. Extensive  experiments on two real-world datasets show significant improvements of ourproposed NCF framework over the state-of-the-art methods. Empirical evidence shows that using deeper layers of neuralnetworks offers better recommendation performance.
+
+![]()
+
 ### 16 May 2016
  - **Paper:** [Large Scale Distributed Semi-Supervised Learning Using Streaming Approximation](https://arxiv.org/pdf/1512.01752.pdf)
  - **Domain:** `Graph based semi-supervisedlearning (SSL)`, `Knowledge graph, Graph neural netwrok`, `Chatbot`, `Conversation AI`
