@@ -36,3 +36,9 @@ In top messages along with projections and corresponding replies, if available, 
 ![](./images/seq2seq_for_conversational_ai.png)
  
  The seq2seq framework for modeling conversations.
+
+## Computer vision
+
+### 22 Sep 2020
+ - **Paper:** [PP-OCR: A Practical Ultra Lightweight OCR System](https://arxiv.org/pdf/2009.09941.pdf)
+ - **Domain:** `Text detection`, `Direction classification`, `Text recognition`
