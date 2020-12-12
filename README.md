@@ -55,3 +55,6 @@ In top messages along with projections and corresponding replies, if available, 
   2.  We show ReLU and batch norm outperform other combi-nations for regularization and normalization, and resid-ual connections are necessary for training to   converge.
   3.  We introduceNovoGrad, a variant of the Adam opti-mizer with a smaller memory footprint.
   4.  We improve the SOTA WER on LibriSpeech test-clean.
+
+### 22 Oct 2020
+- **Paper:** [wav2vec 2.0: A Framework for Self-SupervisedLearning of Speech Representations](https://arxiv.org/pdf/2006.11477.pdf)
