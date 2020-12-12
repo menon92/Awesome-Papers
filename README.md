@@ -42,3 +42,15 @@ In top messages along with projections and corresponding replies, if available, 
 ### 22 Sep 2020
  - **Paper:** [PP-OCR: A Practical Ultra Lightweight OCR System](https://arxiv.org/pdf/2009.09941.pdf)
  - **Domain:** `Text detection`, `Direction classification`, `Text recognition`
+
+## Speech
+
+### 27 Aug 2019
+- **Paper:** [Jasper: An End-to-End Convolutional Neural Acoustic Mode](https://arxiv.org/pdf/1904.03288.pdf)
+- **Domain:** `speech  recognition, convolutional networks,time-delay neural networks`
+- **Dataset:**
+- **Kye points:** This paper makes the following contributions:
+  1.  We present a computationally efficient end-to-end con-volutional neural network acoustic model.
+  2.  We show ReLU and batch norm outperform other combi-nations for regularization and normalization, and resid-ual connections are necessary for training to   converge.
+  3.  We introduceNovoGrad, a variant of the Adam opti-mizer with a smaller memory footprint.
+  4.  We improve the SOTA WER on LibriSpeech test-clean.
