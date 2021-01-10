@@ -37,6 +37,19 @@ In top messages along with projections and corresponding replies, if available, 
  
  The seq2seq framework for modeling conversations.
 
+
+### 17 May 2019
+ - **Paper:** [Gmail Smart Compose: Real-Time Assisted Writing](https://arxiv.org/pdf/1906.00080.pdf)
+ - **Domain:** `Smart Compose`, `Language model`, `Assisted writing`
+ - **Dataset:**  `8 billion English email message`
+ - **Discussion:**
+ - **Key points:** Present Smart Compose, a novel system for gener-ating interactive, real-time suggestions in Gmail that assists usersin writing mails by reducing repetitive typing.
+ 
+![](./images/email_compose.png)
+ 
+Smart email compose architecture
+
+
 ## Computer vision
 
 ### 22 Sep 2020
