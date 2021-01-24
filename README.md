@@ -4,6 +4,14 @@ Awesome papers contrain list of papers that I go through over the time. Try to c
 
 ## NLP
 
+### ACL 2020
+- **Paper:** [Representation Learning for Information Extraction from Form-like Documents](https://research.google/pubs/pub49122/)
+- **Discussion:** [Extracting Structured Data from Templatic Documents ](https://ai.googleblog.com/2020/06/extracting-structured-data-from.html)
+
+### ACL 2020
+- **Paper:** [TAPAS: Weakly Supervised Table Parsing via Pre-training](https://arxiv.org/abs/2004.02349) 
+- **Discussion:** [Using Neural Networks to Find Answers in Tables ](https://ai.googleblog.com/2020/04/using-neural-networks-to-find-answers.html)
+
 ### 26 Aug 2017
  - **Paper:** [Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031.pdf)
  - **Domain:** `Recommender systems`, `Collaborative  Filtering`,  `Matrix Factorization`, `Implicit Feedback`
