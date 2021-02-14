@@ -34,6 +34,19 @@ Neural collaborative filtering framework
 
 In top messages along with projections and corresponding replies, if available, are used in a machine learning framework to jointly learn a “message projection model”. (Bottom) The message projection model learns to associate replies with the projections of the corresponding incoming messages. For example, the model projects two different messages “Howdy, everything going well?” and “How’s it going buddy?” (bottom center) to nearby bit vectors and learns to map these to relevant replies (bottom right).
 
+### 7 Apr 2016
+- **Paper:** [Neural Architectures for Named Entity Recognition](https://arxiv.org/pdf/1603.01360.pdf)
+- **Domain:** `Name Entity Recognition`, `PoS Tagger`, `LSTM-CRFL`, `Stack-LSTM`, `Structured Prediction`
+- **Dataset:** `CoNLL-2002`, `CoNLL-2003`
+- **Discussion:**
+    - [Tagger](https://github.com/glample/tagger)
+    - [Stack LSTM NER](https://github.com/clab/stack-lstm-ner)
+    - [Spacy Name Entity Recognizer](https://www.youtube.com/watch?v=sqDHBH9IjRU&t=2902s)
+
+![](./images/transition-based-ner-shift-reduce-perser.png)
+
+In this paper, weintroduce two new neural architectures one based on bidirectional LSTMs and conditional random fields, and the other that constructs and labels segments using a `transition-based` approach inspired by `shift-reduce parsers`. Our models rely on two sources of information about words: character-based word representations learned from the supervised corpus and unsupervised word representations learned from unannotated corpora.  Our models obtain state-of-the-art performance in NER in four languages without resorting toany language-specific knowledge or resourcessuch as gazetteers
+
 ### 22 July 2015
  - **Paper:** [A Neural Conversational Model](https://arxiv.org/pdf/1506.05869.pdf)
  - **Domain:** `Chatbot`, `Conversation AI`
