@@ -94,5 +94,9 @@ Smart email compose architecture
   3.  We introduceNovoGrad, a variant of the Adam opti-mizer with a smaller memory footprint.
   4.  We improve the SOTA WER on LibriSpeech test-clean.
 
+### 04 April 2019
+-**Paper:** [Very Deep Self-Attention Networks for End-to-End Speech Recognition](https://arxiv.org/pdf/1904.13377.pdf)
+-**Domain:** `Transformer`, `Speech Recognition`
+
 ### 22 Oct 2020
 - **Paper:** [wav2vec 2.0: A Framework for Self-SupervisedLearning of Speech Representations](https://arxiv.org/pdf/2006.11477.pdf)
