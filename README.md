@@ -76,6 +76,10 @@ Smart email compose architecture
 ### 22 Sep 2020
  - **Paper:** [PP-OCR: A Practical Ultra Lightweight OCR System](https://arxiv.org/pdf/2009.09941.pdf)
  - **Domain:** `Text detection`, `Direction classification`, `Text recognition`
+ 
+ ### 
+ - **Paper:** [LARGEBATCHTRAINING  OFCONVOLUTIONALNET-WORKS](https://arxiv.org/pdf/1708.03888.pdf)
+ - **Domain:** `Techinical Report`, `Learge Batch Training`, `AlexNet`
 
 ## Speech
 
