@@ -4,6 +4,9 @@ Awesome papers contrain list of papers that I go through over the time. Try to c
 
 ## NLP
 
+### 19 July 2021
+- **Paper:** [Deep Natural Language Processing for LinkedIn Search Systems](https://arxiv.org/pdf/2108.08252.pdf)
+
 ### ACL 2020
 - **Paper:** [Representation Learning for Information Extraction from Form-like Documents](https://research.google/pubs/pub49122/)
 - **Discussion:** [Extracting Structured Data from Templatic Documents ](https://ai.googleblog.com/2020/06/extracting-structured-data-from.html)
