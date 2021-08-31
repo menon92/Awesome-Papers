@@ -80,6 +80,10 @@ Smart email compose architecture
  - **Paper:** [PP-OCR: A Practical Ultra Lightweight OCR System](https://arxiv.org/pdf/2009.09941.pdf)
  - **Domain:** `Text detection`, `Direction classification`, `Text recognition`
  
+ ### 15 Jun 2019
+ -**Paper:** [Offline Handwritten Chinese Text Recognition with Convolutional Neural Networks](https://arxiv.org/ftp/arxiv/papers/2006/2006.15619.pdf)
+ -**Code:** [Handwritten chinese ocr](https://github.com/intel/handwritten-chinese-ocr-samples)
+ 
  ### 
  - **Paper:** [LARGEBATCHTRAINING  OFCONVOLUTIONALNET-WORKS](https://arxiv.org/pdf/1708.03888.pdf)
  - **Domain:** `Techinical Report`, `Learge Batch Training`, `AlexNet`
