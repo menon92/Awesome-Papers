@@ -9,15 +9,15 @@ Awesome papers contrain list of papers that I go through over the time. Try to c
 - **Domain:** `LinkedIn search system using DeepNLP`
 - **Kye points:** In this paper, we introduce a comprehensive study of applying deep NLP techniques to five representative tasks in search engines. Through the model design and experiments of the five tasks, readers can find answers to three important questions: 
 
-- (1) When is deep NLP helpful/not helpful in search systems?
-- (2) How to address latency challenges?
-- (3) How to ensure model robustness?
-- `5 Search tasks`
-  - Query Intent Prediction - Use `CNN with 128 filters`
-  - Query Tagging - Use `Semi-markov conditional random field (SCRF)`
-  - Query auto completion - Use `one layer LSTM with a 100 dimension hidden state`
-  - Query Suggestion - Use `seq2seq mode contain 100 hidden size and 2 layers in LSTM`
-  - Document Ranking - Use `xgboost`
+  - (1) When is deep NLP helpful/not helpful in search systems?
+  - (2) How to address latency challenges?
+  - (3) How to ensure model robustness?
+  - `5 Search tasks`
+    - Query Intent Prediction - Use `CNN with 128 filters`
+    - Query Tagging - Use `Semi-markov conditional random field (SCRF)`
+    - Query auto completion - Use `one layer LSTM with a 100 dimension hidden state`
+    - Query Suggestion - Use `seq2seq mode contain 100 hidden size and 2 layers in LSTM`
+    - Document Ranking - Use `xgboost`
 
 ![](./images/linkedin-search-system.png)
 
